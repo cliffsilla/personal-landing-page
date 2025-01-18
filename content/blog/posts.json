@@ -8,6 +8,42 @@
       "image": "images/img-1.jpg",
       "author": "Your Name",
       "category": "General"
+    },
+    {
+      "id": "ethical-ai-development",
+      "title": "The Ethics of AI Development in 2025",
+      "date": "2025-01-18",
+      "excerpt": "Exploring the crucial ethical considerations in AI development and deployment, from bias mitigation to transparency.",
+      "image": "images/blog/ai-ethics.jpg",
+      "author": "Your Name",
+      "category": "AI Ethics"
+    },
+    {
+      "id": "ai-healthcare-2025",
+      "title": "AI in Healthcare - 2025 Breakthroughs",
+      "date": "2025-01-17",
+      "excerpt": "Discover how artificial intelligence is transforming healthcare with groundbreaking applications and improved patient outcomes.",
+      "image": "images/blog/ai-healthcare.jpg",
+      "author": "Your Name",
+      "category": "Healthcare AI"
+    },
+    {
+      "id": "ai-powered-development",
+      "title": "AI-Powered Software Development - The New Era",
+      "date": "2025-01-16",
+      "excerpt": "How AI is revolutionizing software development with intelligent coding assistants, automated testing, and smart debugging tools.",
+      "image": "images/blog/ai-development.jpg",
+      "author": "Your Name",
+      "category": "Software Development"
+    },
+    {
+      "id": "understanding-llms",
+      "title": "Understanding Large Language Models - A Deep Dive",
+      "date": "2025-01-15",
+      "excerpt": "Explore the fascinating world of Large Language Models and how they're revolutionizing AI applications.",
+      "image": "images/blog/llm-architecture.jpg",
+      "author": "Your Name",
+      "category": "Artificial Intelligence"
     }
   ]
 }
