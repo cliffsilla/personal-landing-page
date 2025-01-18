@@ -1,0 +1,13 @@
+{
+  "posts": [
+    {
+      "id": "first-post",
+      "title": "Welcome to My Blog",
+      "date": "2025-01-18",
+      "excerpt": "This is my first blog post on my new personal website.",
+      "image": "images/img-1.jpg",
+      "author": "Your Name",
+      "category": "General"
+    }
+  ]
+}
